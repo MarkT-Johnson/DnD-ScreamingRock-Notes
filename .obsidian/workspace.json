@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "c22d0261b385c3e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb10e1b6078e82a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c7e3d1e174ea88e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b1109b04fe3172fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "a347d63eb259f143",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03fe071d7d88b137",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "19599c40d463056b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "000abc39f3c09508",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "de8cde7188ccf34a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4317f50e7c3e9fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37ab2997374b8872",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Characters/NPCs/Dysl Exia.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Dysl Exia"
+            }
+          },
+          {
+            "id": "3b08ecd0ed842963",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Characters/NPCs/Dysl Exia.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Dysl Exia"
+            }
+          },
+          {
+            "id": "8f2e2323c4484085",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8076d2daf2157296",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "ff37eb2004c2b621",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "03fe071d7d88b137",
+  "lastOpenFiles": [
+    "Characters/NPCs/Dysl Exia.md",
+    "Points Of Interest/Settlements/Screaming Rock.md",
+    "Points Of Interest/Landmarks/Razor Claw Mountains.md",
+    "Points Of Interest/Settlements",
+    "Points Of Interest/Landmarks",
+    "Points Of Interest",
+    "Lore/Screaming Rock.md",
+    "Lore",
+    "Groups/The Empire.md",
+    "Groups/Screaming Rock Miners.md",
+    "Groups",
+    "Characters/NPCs/Simon Exia.md",
+    "Characters/NPCs/Ferna Exia.md",
+    "Characters/NPCs/Ebrius Epistolarum.md",
+    "Characters/NPCs/Cormon MudSkip.md",
+    "Characters/NPCs",
+    "Characters",
+    "dummy",
+    "Untitled.base",
+    "README.md",
+    "Welcome.md"
+  ]
+}
