@@ -1,0 +1,2 @@
+#poi #building #screaming_rock-town 
+Located in the valleys of the [[Razor Claw Mountains]] within the town of [[Points Of Interest/Settlements/Screaming Rock|Screaming Rock]], this shop is owned by [[Dysl Exia]] and his family. Primarily catering to the repair and creation of tools for the [[Screaming Rock Miners]], the Exia Smithy is well known part of the community.

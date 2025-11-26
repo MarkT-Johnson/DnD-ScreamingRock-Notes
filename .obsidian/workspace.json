@@ -11,10 +11,14 @@
             "id": "0c7e3d1e174ea88e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Points Of Interest/Landmarks/Razor Claw Mountains.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Razor Claw Mountains"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#screaming_rock-town",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,13 +151,17 @@
             }
           },
           {
-            "id": "ff37eb2004c2b621",
+            "id": "6e8361b94b6d358d",
             "type": "leaf",
             "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ],
@@ -161,7 +169,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,31 +180,35 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Create new base": false
     }
   },
-  "active": "03fe071d7d88b137",
+  "active": "0c7e3d1e174ea88e",
   "lastOpenFiles": [
-    "Characters/NPCs/Dysl Exia.md",
-    "Points Of Interest/Settlements/Screaming Rock.md",
     "Points Of Interest/Landmarks/Razor Claw Mountains.md",
+    "Points Of Interest/Buildings/Exia Smithy.md",
+    "Points Of Interest/Settlements/Screaming Rock.md",
+    "Characters/NPCs/Ferna Exia.md",
+    "Points Of Interest/Buildings",
+    "Characters/NPCs/Dysl Exia.md",
+    "Navigation.base",
+    "Untitled.md",
+    "Groups/Screaming Rock Miners.md",
+    "Lore/Screaming Rock.md",
+    "Characters/NPCs/Cormon MudSkip.md",
+    "Characters/NPCs/Lich King Skeletor.md",
+    "Groups/The Rattlers.md",
+    "Groups/The Empire.md",
     "Points Of Interest/Settlements",
     "Points Of Interest/Landmarks",
     "Points Of Interest",
-    "Lore/Screaming Rock.md",
     "Lore",
-    "Groups/The Empire.md",
-    "Groups/Screaming Rock Miners.md",
     "Groups",
     "Characters/NPCs/Simon Exia.md",
-    "Characters/NPCs/Ferna Exia.md",
     "Characters/NPCs/Ebrius Epistolarum.md",
-    "Characters/NPCs/Cormon MudSkip.md",
     "Characters/NPCs",
     "Characters",
     "dummy",
-    "Untitled.base",
     "README.md",
     "Welcome.md"
   ]
