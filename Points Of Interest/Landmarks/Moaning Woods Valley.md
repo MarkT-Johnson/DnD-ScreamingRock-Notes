@@ -1,0 +1,2 @@
+#poi #landmark #screaming_rock-town 
+Tucked away within the [[Razor Claw Mountains]], the Moaning Woods valley got its name when early explorers first came across it, they would occasionally hear shrieks and moans in the distance leading them to believe the valley was haunted. However these early explorers did not leave empty handed as they took several smooth and glassy dark blue stones with them that were later discovered to be the now famous [[Lore/Screaming Rock|Screaming Rocks]].

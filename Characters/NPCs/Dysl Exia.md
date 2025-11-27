@@ -1,7 +1,7 @@
 #character #npc #screaming_rock-town 
 Dysl Exia is a human male blacksmith in the town of [[Points Of Interest/Settlements/Screaming Rock|Screaming Rock]]. He primarily works with the [[Screaming Rock Miners|miners of Screaming Rock]] fixing tools and carts.
 
-# Personality
+# Personality and Key Features
 - Distrusting of strangers, Dysl tends to try to avoid those he does not already know.
 - Dysl is fiercely protective of his family
 

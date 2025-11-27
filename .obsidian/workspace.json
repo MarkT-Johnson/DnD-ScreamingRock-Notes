@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Points Of Interest/Landmarks/Razor Claw Mountains.md",
+                "file": "Lore/Screaming.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Razor Claw Mountains"
+              "title": "Screaming"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#screaming_rock-town",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -186,18 +186,22 @@
   },
   "active": "0c7e3d1e174ea88e",
   "lastOpenFiles": [
-    "Untitled.base",
-    "Points Of Interest/Landmarks/Razor Claw Mountains.md",
-    "Points Of Interest/Buildings/Exia Smithy.md",
+    "Lore/Screaming Rock.md",
+    "Lore/Screaming.md",
     "Points Of Interest/Settlements/Screaming Rock.md",
+    "Points Of Interest/Landmarks/Moaning Woods Valley.md",
+    "Groups/Screaming Rock Miners.md",
+    "Groups/The Iron Picks.md",
+    "Groups/Untitled",
+    "Characters/NPCs/Cormon MudSkip.md",
+    "Characters/NPCs/Dysl Exia.md",
+    "Points Of Interest/Landmarks/Razor Claw Mountains.md",
+    "Untitled.base",
+    "Points Of Interest/Buildings/Exia Smithy.md",
     "Characters/NPCs/Ferna Exia.md",
     "Points Of Interest/Buildings",
-    "Characters/NPCs/Dysl Exia.md",
     "Navigation.base",
     "Untitled.md",
-    "Groups/Screaming Rock Miners.md",
-    "Lore/Screaming Rock.md",
-    "Characters/NPCs/Cormon MudSkip.md",
     "Characters/NPCs/Lich King Skeletor.md",
     "Groups/The Rattlers.md",
     "Groups/The Empire.md",
@@ -209,7 +213,6 @@
     "Characters/NPCs/Simon Exia.md",
     "Characters/NPCs/Ebrius Epistolarum.md",
     "Characters/NPCs",
-    "Characters",
     "README.md",
     "Welcome.md"
   ]
