@@ -1,2 +1,2 @@
 #lore 
-An elaborate set of hand signals developed by the [[Screaming Rock Miners]] in order to communicate.
+An elaborate set of hand signals developed by the [[Screaming Rock Miners]] in order to communicate. Its used by both miners and members of the [[Town of Screaming Rock|town of Screaming Rock]] since so many members cannot hear.

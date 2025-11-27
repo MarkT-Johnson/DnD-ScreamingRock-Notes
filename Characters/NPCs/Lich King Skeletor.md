@@ -1,1 +1,0 @@
-#character #npc #rattlers-group 
