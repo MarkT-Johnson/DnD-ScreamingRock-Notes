@@ -1,7 +1,8 @@
 #character #npc #screaming_rock-town 
 Dysl Exia is a human male blacksmith in the town of [[Town of Screaming Rock|Town of Screaming Rock]]. He primarily works with the [[Screaming Rock Miners|miners of Screaming Rock]] fixing tools and carts.
 # Personality and Key Features
-- Distrusting of strangers, Dysl tends to try to avoid those he does not already know.
+- Tall for a human, Dysl has broad thick arms from working in the forge and often found wearing a heavy leather apron covered in scorch marks.
+- Dysl has an innate distrust of wizards and mages
 - Dysl is fiercely protective of his family
 # Background
 - Dysl Exia is a former military smith as a part of [[The Empire|the Empire]]'s army working to repair the weapons, armor, and tools. He spent many years honing his craft before being discharged after he butted heads one too many times with one of the Army's wizards [[Ebrius Epistolarum]].
@@ -12,5 +13,5 @@ Dysl Exia is a human male blacksmith in the town of [[Town of Screaming Rock|Tow
 - [[Cormon MudSkip]]: Foreman of the [[Screaming Rock Miners]] who frequently contracts with Dysl to repair the miner's tools and carts. The two have a strong bond of mutual respect that is conveyed through short one word responses and vague grunts.
 - [[Ebrius Epistolarum]]: a wizard formerly employed by the [[The Empire]] as part of the army, he and Dysl butted heads frequently ultimately leading to both of them being discharged.
 # Secrets
-- Dysl is actually suffering from a curse from the wizard [[Ebrius Epistolarum]] whom he fought with while in the [[The Empire|the Empire]]'s army. As a result of the curse, Dysl is unable to read and write any language. As a result, he relies on his wife [[Ferna Exia|Ferna]] to run the administrative side of his smithy.
+- Dysl is actually suffering from a curse from the wizard [[Ebrius Epistolarum]] whom he fought with while in the [[The Empire|the Empire]]'s army. As a result of the curse, Dysl is unable to read and write any language. As a result, he relies on his wife [[Ferna Exia|Ferna]] to run the administrative side of his smithy. He frequently excuses this inability to read by saying "If you leave this with me it'll be lost by the time I turn around. Better to give it to my better half."
 	- *Dysl's name is just the word Dyslexia split in two!*
