@@ -1,2 +1,2 @@
 #character #npc #empire-group 
-An ageless, god like being, leading [[The Empire]]. Many citizens of [[The Empire]] whisper, wondering if Imperia is one of the long lost [[Lorentai]].
+An ageless, god like being, leading [[The Empire]]. Many citizens of [[The Empire]] whisper, wondering if Imperia is one of the long lost [[Lorentai]]. Little is known about them other than that before the founding of [[The Empire]], Imperia discovered some long lost magic of the [[Lorentai]] that allowed them to begin the conquest of the entire land
