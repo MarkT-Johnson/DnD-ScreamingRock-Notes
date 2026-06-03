@@ -1,0 +1,5 @@
+#lore 
+
+While magic or "the weave" is studied in many different ways, there is one area of study that has collectively been shunned and forbidden, that of necromancy or the defiance of death and perversion of life through magic. While natural occurrences of necromantic magic is known to occur in some places, the deliberate evocation of necromancy is strictly forbidden. Those that follow the practice are typically shunned, banished, or killed for it depending on their use.
+
+While the use of necromancy is outlawed in [[The Empire|the Empire]], its a subject of much debate with some groups believing all necromancy is evil and should remain banned, while others believe it to be more of a grey area where there may be some uses. Much of this debate appears to be from the [[Pantheon|Churches]] and [[Mage College]] where Clergy and Scholars go back and forth with many factions within both groups advocating for both sides of the argument.

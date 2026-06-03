@@ -1,5 +1,5 @@
-#poi #landmark
-A mountain range known for its sharp peaks and sharper rocks. Its characterized by its man winding valleys creating a natural maze surrounded by towering expanses of rock. Many early explorers of the mountains never made their way back out with the lucky few telling stories of ghostly apparitions appearing within the mountains haunting those that try to conquer the mountains they could not in life.
+#poi #landmark #region 
+A mountain range known for its sharp peaks and sharper rocks. Its characterized by its winding valleys creating a natural maze surrounded by towering expanses of rock. Many early explorers of the mountains never made their way back out with the lucky few telling stories of ghostly apparitions appearing within the mountains haunting those that try to conquer the mountains they could not in life.
 
 # Secrets
 ##### Ghost Stories:

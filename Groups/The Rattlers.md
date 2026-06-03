@@ -1,1 +1,2 @@
 #group #rattlers-group
+Lead by [[Lich King Ludenej]], The Rattlers are a group of necromancers seeking to bring eternal life to the world believing that a natural life is to short to have any real meaning and only through [[Necromancy]] can an eternal life be given and true purpose found.

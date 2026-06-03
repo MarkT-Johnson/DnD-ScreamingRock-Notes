@@ -1,0 +1,5 @@
+#group #rot_druids-group #cult_of_ascension-group
+
+The Cult of Ascension is a group of [[Rot Druids]], who are dissatisfied with waiting for the natural order of life, death, rebirth. While sharing the core beliefs of the [[Rot Druids]] in that death offers a chance for souls to move closer to perfection, they believe that waiting for a soul to live its life is unnecessary. Rather than waiting for creatures to die naturally, the Cult of Ascension seeks to accelerate the process of ascending to a more perfect state by spreading death and decay. In their beliefs, a constant death and decay will rapidly accelerate the ascension of all creatures until eventually all souls reach perfection and ascend beyond the material plane. As such it is their duty to help further this ascension for the world as a whole.
+
+The Cult of Ascension is part of why many people fear the [[Rot Druids]] in general though many [[Rot Druids]] who do not subscribe to the beliefs of the Cult do their best to distance and distinguish themselves from the Cult.

@@ -2,7 +2,7 @@
 Head of the Rattlers, the Lich King Ludenej is a half-orc turned lich. 
 # Personality and Key Features
 - Ludenej is male half-orc whose head has been stripped of all flesh leaving only a perpetually grinning skull with sharp tusks pointed up and gaping eye sockets from which a wispy darkness seems to constantly seep out from.
-- Ludenej is obsessed with life, believing a natural life is far to short and fleeting to be meaningful, thus he wishes to spread eternal life to all.
+- Ludenej is obsessed with life, believing a natural life is far to short and fleeting to be meaningful, thus he wishes to spread his cursed eternal life to all.
 # Background
 - *Ludenej began his path to lichdom studying as a mage under [[The Empire]]. However, early on he became fascinated with the magic behind life itself leading him to begin studying the forbidden magic of necromancy.*
 - *Before long, he began paying bandit groups and slavers to kidnap people for his experiments. In which he would torture his victims to bring them to the brink of death in order to try to learn more about the transition from life to death.*
