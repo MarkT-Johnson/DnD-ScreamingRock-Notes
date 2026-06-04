@@ -1,0 +1,7 @@
+#lore 
+
+Magitech is a new branch of magic combining elements of artifice, alchemy and the mundane sciences to create a new classification. Originally created by the Gnomish population, magitech was a rarely explored area of study until it began to explode in popularity within the gnomish city of [[City of Futriming|Futriming]] where is has come to dominate the city as the primary source of magical infrastructure.
+
+Compared to traditional magics that rely on the complex manipulations of the Weave in order to create a wide range of affects, Magitech relies on the weave to produce limited forces that need simple rituals, spells, or artifice to produce while being magnifying that affect to accomplish more complex tasks through the use of clever sciences.
+
+The result is a steampunk aesthetic that allows for the application of low skill magics to accomplish many of the same results of magics that take years to learn normally. As such, its often derided as being a "cheap parlor trick" by those who spent years learning to manipulate the Weave. This sentiment ultimately lead to many years where Magitech was not studied in the [[Mage College]] until the success of the [[City of Futriming]] could no longer be ignored.

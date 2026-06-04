@@ -5,7 +5,7 @@ A young Tabaxi wizard from the [[Mage College]]. Bailson has temporarily moved i
 - Bailson is not a person with much conviction and often finds himself stuck on whatever his current project is with little to no sign of him ever approaching some kind of end. Something is always not quite right or needs further exploration before it may be ready for others to review.
 # Background
 - Bailson is part of a noble Tabaxi family from the northern lands of the [[The Empire|Empire]] known as [[The Fieforence Wilds]].  After it became clear to his family that Bailson had no talent for politics, they sent him off to the [[Mage College]] to get him out of their way.
-- Bailson is a representative of the [[Mage College]], though unbeknownst to him the whole reason the [[Mage College]] sent him here was to simply get him out of the class rooms as it became clear after the 6th year of his time at the [[Mage College]], he had no exceptional magical talent whatsoever.
+- Bailson is a representative of the [[Mage College]], though unbeknownst to him the whole reason the [[Mage College]] sent him to the [[Town of Screaming Rock]] was to simply get him out of the class rooms as it became clear after the 6th year of his time at the [[Mage College]], he had no exceptional magical talent whatsoever. As such in order to avoid offending his noble family, he was assigned to the study of the [[Turtle Shell Fort]] as a way of making him someone else's problem.
 # Relationships
 - *Any information that might define how this character interacts with other characters*
 # Secrets
