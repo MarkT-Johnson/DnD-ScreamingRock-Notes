@@ -1,4 +1,4 @@
-#lore #pantheon-group 
+#lore #pantheon-group #wip
 There are 13 gods in the pantheon representing an assortment of alignments and the divine embodiment of various forces of nature. Though these gods are given certain alignments, they follow their representation more than the alignment. I.E Purshung is not always good, as unchecked growth can be bad, likewise Arivast is not always evil as death ends suffering, and clears the way for new tomorrows:
 
 ## Fortune, Fate, and Chance: "Hepharon"
@@ -36,4 +36,8 @@ ___
 **Followers**: Explorers, Librarians, Researchers
 **Symbol**: An open book above a ship sailing on the horizon
 
+## Frivolity, Celebration, Indulgence: ""
+___
+**Alignment:** Chaotic Good
+**Embodiment**: 
 ## 
